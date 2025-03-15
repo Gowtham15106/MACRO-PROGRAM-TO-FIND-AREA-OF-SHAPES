@@ -1,1 +1,1 @@
-# MACRO-PROGRAM-TO-FIND-AREA-OF-SHAPES
+# MACRO-PROGRAM-TO-FIND-AREA-OF-SHAPESSOURCE CODE:(General)Function rect (height As Double, width As Double rect = width * height End FunctionFunction sq(side As Double) As Doublesq = side * side End FunctionFunction tri (side As Double, side2 As Double, side3 As Double) As DoubleDim p As Double p = (side + side2 + side3) /2 tri = Sqr (p * (p – side1) * (p – side2) * (p – side3) )End FunctionFunction cir (radius As Double) As Doublecir = 3.14159 * radius * radiusEnd Function
